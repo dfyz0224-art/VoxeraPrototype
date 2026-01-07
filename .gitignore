@@ -2,3 +2,12 @@
 /.gradle/
 /app/build/
 /build/
+/out/
+.idea/
+*.iml
+*.ipr
+*.iws
+local.properties
+*.class
+.DS_Store
+Thumbs.db
